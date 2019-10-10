@@ -23,7 +23,7 @@
     "tape": "^3.4.0"
   },
   "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.4"
+    "phantomjs-prebuilt": "https://github.com/inikdom/phantomjs.git"
   },
   "repository": {
     "type": "git",
